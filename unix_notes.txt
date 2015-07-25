@@ -1,0 +1,123 @@
+    1  ls -l ~
+    2  pwd
+    3  cd
+    4  cd documents
+    5  man
+    6  man ls
+    7  man man
+    8  mkdir
+    9  man touch
+   10  lkj
+   11  dsk
+   12  sksuic
+   13  file
+   14  run
+   15  install
+   16  `
+   17  ~
+   18  ~
+   19  install
+   20  pwd
+   21  pwd
+   22  ~
+   23  cd
+   24  cd docs
+   25  cdpictures
+   26  cd pictures
+   27  cd ..
+   28  cd ..
+   29  cd ..
+   30  cd ..
+   31  pwd
+   32  pwd
+   33  touch
+   34  mv
+   35  less
+   36  less documents
+   37  less 
+   38  man
+   39  man
+   40  man less
+   41  var troll = prompt("You're walking through the forest, minding your own business, and you run into a troll! Do you FIGHT him, PAY him, or RUN?").toUpperCase();
+   42  switch(troll) {
+   43    case 'FIGHT':     var strong = prompt("How courageous! Are you strong (YES or NO)?").toUpperCase();
+   44      var smart = prompt("Are you smart?").toUpperCase();
+   45      if(strong === 'YES' || smart === 'YES') {
+   46      } else {
+   47      }
+   48      break;
+   49    case 'PAY':     var money = prompt("All right, we'll pay the troll. Do you have any money (YES or NO)?").toUpperCase();
+   50      var dollars = prompt("Is your money in Troll Dollars?").toUpperCase();
+   51      if(money === 'YES' && dollars === 'YES') {
+   52        console.log("Great! You pay the troll and continue on your merry way.");
+   53      } else {
+   54      }
+   55      break;
+   56    case 'RUN':     var fast = prompt("Let's book it! Are you fast (YES or NO)?").toUpperCase();
+   57      var headStart = prompt("Did you get a head start?").toUpperCase();
+   58      if(fast === 'YES' || headStart === 'YES') {
+   59        console.log("You got away--barely! You live to stroll through the forest another day.");
+   60      } else {
+   61        console.log("You're not fast and you didn't get a head start? You never had a chance! The troll eats you.");
+   62      }
+   63      break;
+   64    default:
+   65  uname
+   66  uname
+   67  brew update
+   68  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+   69  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+   70  brew help
+   71  brew update
+   72  brew doctor
+   73  brew install fish
+   74  echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+   75  chsh -s /usr/local/bin/fish
+   76  ls -l /etc
+   77  ls Documents
+   78  ../
+   79  pwd
+   80  cd /bin
+   81  cd
+   82  cd
+   83  cd
+   84  cd
+   85  ..
+   86  cd ..
+   87  ls
+   88  ls
+   89  /ls
+   90  ls
+   91  cd
+   92  ls
+   93  cd applications
+   94  cd ..
+   95  cd applications
+   96  clear
+   97  ls
+   98  cd
+   99  pwd
+  100  ls
+  101  ls -r
+  102  ls -rlt
+  103  cd Applications
+  104  pwd
+  105  ls ~
+  106  pwd
+  107  ..
+  108  cd .
+  109  cd ...
+  110  cd 
+  111  clear
+  112  history
+  113  history
+  114  sistory 7
+  115  history 7
+  116  history  | less
+  117  history | less
+  118  history | more
+  119  man | less
+  120  man less
+  121  cd
+  122  pwd
+  123  history > moving_around.txt
