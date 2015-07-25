@@ -34,7 +34,7 @@
    34  mv
    35  less
    36  less documents
-   37  less 
+   37  less
    38  man
    39  man
    40  man less
@@ -107,7 +107,7 @@
   107  ..
   108  cd .
   109  cd ...
-  110  cd 
+  110  cd
   111  clear
   112  history
   113  history
@@ -121,3 +121,5 @@
   121  cd
   122  pwd
   123  history > moving_around.txt
+  (git repository made)
+
